@@ -1,11 +1,11 @@
-# Portfolio-Website
+# Portfolio Website
 A "work in progress" portfolio website I will use to showcase my future projects.
 
 ## Preview:
 ![Preview](/images/preview.png)
 
 ## Website Link:
-[Website Link](http://github.com)
+[Github Page Link](https://cyoung-sudo.github.io/portfolio-website/)
 
 ## Programming Languages:
 * HTML
