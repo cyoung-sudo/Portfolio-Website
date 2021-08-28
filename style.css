@@ -202,9 +202,10 @@ p {
 
 /*===== Images =====*/
 #profile-img {
-	border-radius: 50%;
 	width: 300px;
 	height: 300px;
+	object-fit: cover;
+	border-radius: 50%;
 }
 
 .project-img {
@@ -212,4 +213,5 @@ p {
 	border-top-right-radius: 10%;
 	width: 300px;
 	height: 150px;
+	object-fit: cover;
 }
