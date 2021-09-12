@@ -13,3 +13,4 @@ A "work in progress" portfolio website I will use to showcase my future projects
 
 ## Support
 - [x] Mobile supported
+- [x] Chrome Lighthouse perfect score
