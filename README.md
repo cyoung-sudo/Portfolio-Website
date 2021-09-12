@@ -7,7 +7,7 @@ A "work in progress" portfolio website I will use to showcase my future projects
 ## Website Link
 [Github Page Link](https://cyoung-sudo.github.io/portfolio-website/)
 
-## Programming Languages:
+## Programming Languages
 * HTML
 * CSS
 
